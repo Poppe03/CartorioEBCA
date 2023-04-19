@@ -1,2 +1,2 @@
 # CartorioEBCA
-Upload do projeto 
+Projeto de curso de TI da EBAC
